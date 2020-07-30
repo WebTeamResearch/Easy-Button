@@ -1,4 +1,4 @@
-# Easy-Button v1.2.4
+# Easy-Button v1.2.5
 The app we all want
 
 # Description
