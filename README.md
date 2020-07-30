@@ -51,3 +51,5 @@ Epic ready for production:
 *Note 1*: there can as many feature and epic branches as needed, but remember the longer the code stays branched the harder it will be to integrate so keep these branches as small as reasonably possible.
 
 *Note 2*: master and development branches are the only ones that are *NEVER* deleted. development branches from master initially.
+
+*Note 3*: https://rietta.com/blog/github-merge-types/
